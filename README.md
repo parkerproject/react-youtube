@@ -1,4 +1,4 @@
-# Youtube concept on React
+# Youtube concept built with React
 
 
 ###Getting Started###
